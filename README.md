@@ -74,4 +74,4 @@ pulse/
 ### 1. Clone the repository
 
 ```cmd
-git clone https://github.com/Kshitijyadav
+git clone https://github.com/Kshitijyadav19/Pulse-task-management.git
